@@ -1,5 +1,4 @@
-# Image Encryption Script
-
+# Image Encryption
 This repository contains a Python script that performs basic image encryption using two techniques: **random pixel swapping** and **adding a user-specified value** to the RGB channels of each pixel.
 
 ## Features
